@@ -1,0 +1,4 @@
+.vscode/*
+.idea/*
+__pycache__/*
+material_summary.txt
